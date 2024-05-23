@@ -1,0 +1,12 @@
+autolikerecast copy.py
+conf.txt
+forTermux.py
+gas.py
+output_fid.txt
+package-lock.json
+rend.py
+text.py
+warpcast copy.py
+warpcast-auto-fol-unfol.py
+node_modules/
+__pycache__/
